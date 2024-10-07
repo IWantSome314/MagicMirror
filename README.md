@@ -1,6 +1,6 @@
 # MagicMirror
 Notes and description on making my magic mirror
-
+https://magicmirror.builders/
 List of needed items
 
 1. Raspberry Pi (I used the Raspberry Pi 3 Model B version, due to the fact it has easy accessibility and an easy to set up wireless option)
@@ -11,6 +11,8 @@ List of needed items
 6. Micro HDMI Cable for Pi Power Supply
 
 # Modules i want
+[modules(https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-party-modules#utility--iot--3rd-party--integration) \
 
-[Lothian Buses api](https://github.com/tbouron/MMM-LothianBuses)
-[Google calendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar)
+[Lothian Buses api](https://github.com/tbouron/MMM-LothianBuses) \
+[Google calendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar) \
+
